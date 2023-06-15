@@ -1,0 +1,16 @@
+{
+	"name": "kim_test_excercise",
+	"version": "1.0.0",
+	"description": "",
+	"main": "ki.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"cy:open": "cypress open"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"cypress": "^12.14.0"
+	}
+}
